@@ -5,4 +5,4 @@ Recently, I've worked on making Microsoft's _Xbox Game Pass PC/Ultimate_ platfor
 
 I do **a lot** of stuff in Python, although I've been interested in learning more languages recently.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEWsam&layout=compact&exclude_repo=sewsam.github.io&custom_title=python%20moment%20lol&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEWsam&layout=compact&exclude_repo=sewsam.github.io&custom_title=Languages&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)  
